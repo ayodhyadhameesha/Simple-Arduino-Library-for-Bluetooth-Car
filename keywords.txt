@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Bluetoothsensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Bluetoothsensor	KEYWORD1	
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+pinSetups	        KEYWORD2
+
+Carforward	        KEYWORD2
+
+Carbackward             KEYWORD2
+
+Carright                KEYWORD2
+
+Carleft                 KEYWORD2
+  
+Carstop                 KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
